@@ -1,0 +1,2 @@
+rootProject.name = "Cpu_Z"
+include ':app'
